@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome there 👋
+
+I'm crazy about mathematic, cryptography and interesting tasks. Write me in telegrame if you have some.
+
+If you want a gift from me, then write to my secret protonmail account. This hash will help you find it: c4a2a678a0d55bf3231593381a0fe203
 
 <!--
 **b33ngo/b33ngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
