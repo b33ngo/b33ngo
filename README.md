@@ -4,6 +4,7 @@ I'm blockchain enthusiast and crazy about mathematic, cryptography and interesti
 
 If you want a gift from me, then write to my secret protonmail account. This hash will help you find it: **c4a2a678a0d55bf3231593381a0fe203**.
 
+Most of my works are under NDA. But new open-source projects are coming.
 
 For thanks:
 - BTC: 17qpNLvFGvGmunQuX58oaJyo3y8XR2gZCM
