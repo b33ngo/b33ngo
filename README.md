@@ -8,8 +8,8 @@ Most of my works are under NDA. But new open-source projects are coming.
 
 For thanks:
 - BTC: 17qpNLvFGvGmunQuX58oaJyo3y8XR2gZCM
-- ETH: 0xc69d9C86355f930E6a049bc13A7834071c0a11ca
-- USDT: 0x9374d30576119e8a34391efeef008a2cfdffe2c5
+- ETH: 0xda97b65cf00a15fd0641c5da9a2730f9545839c3
+- USDT: TAXcLvtL4gtQ45abd5Lu5a2eyR2N6JQu6B
 
 <p align="center">
   <img src="https://github.com/b33ngo/b33ngo/blob/main/friendship.png" width="500">
